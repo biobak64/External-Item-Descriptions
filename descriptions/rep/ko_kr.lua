@@ -1433,7 +1433,7 @@ local repConditions={
 	["Eye of the Occult Beam"] = "조준점 + 자동 공격이 적용되며 {{ButtonRT}}버튼을 눌러 자동 공격을 멈출 수 있습니다.",
 
 	["Lullaby Clots"] = "클롯의 연사 x2",
-	["Lullaby Lilith"] = "Incubus의 연사 x2",
+	["Lullaby Incubus"] = "Incubus의 연사 x2",
 
 	-- Jacob's Ladder / 120 Volt battery synergies
 	["Sparks Damage"] = "전류 피해량 +50%",
